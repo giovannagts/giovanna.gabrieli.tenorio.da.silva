@@ -1,4 +1,4 @@
-# 🌸Bem vindos a aula de Programação Front-End🌸
+# 🌸Bem vindos a aula de Programação Front-End🌸 
 👋 Oi eu sou a Giovanna sou uma esdudante do CEEP 👩‍🎓👩‍🎓
 
 - e-mail de contato: giovanna.tenorio.silva@escola.pr.gov.br
